@@ -1,0 +1,10 @@
+.main{
+    max-width: 1200px;
+    display:flex;
+    margin: 0 auto;
+    padding-top:60px; 
+}
+
+.row{
+	margin-top:15px;
+}

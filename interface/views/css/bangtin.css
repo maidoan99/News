@@ -1,0 +1,13 @@
+.bang{
+    width: 670px;
+}
+table,tr,th,td{
+    border:1px solid red;
+}
+tr,th,td{
+    margin:1px;
+    text-align: center;
+}
+.cotChan{
+    background-color:#b6e983;
+}
